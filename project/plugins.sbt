@@ -1,4 +1,4 @@
-addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.0.0-RC1")
+addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.0.3")
 addSbtPlugin("org.scala-js" % "sbt-scalajs" % "0.6.22")
 addSbtPlugin("com.jsuereth" % "sbt-pgp" % "1.0.0")
 addSbtPlugin("com.typesafe" % "sbt-mima-plugin" % "0.1.13")
